@@ -1,0 +1,7 @@
+name: RandomItemShop
+version: '${project.version}'
+main: gemesil.randomitemshop.RandomItemShop
+api-version: 1.19
+prefix: RandomItemShop
+authors: [Ofek Buchnik (Gemesil)]
+description: Random blocks / items listed on a shop for a random price and are updated daily
